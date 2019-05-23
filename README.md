@@ -10,10 +10,22 @@ Sketch 快速UI设计框架。尝试融入Axure思路，完全用Sketch一站式
 - 常见界面示例：登录/菜单/Logo/…
 - 自动生成iOS发布时各尺寸图标
 - Symbols 面板：可直接拖放 Symbol 到 Page（开发中）
-- 导出响应式 Html5 页面：可直接用于微信/小程序开发（开发中）
+- 导出响应式 Html5 页面：可直接用于微信/小程序开发（采用Anima AutoLayout 方案）
 - 把图标做成 IconFont（开发中）
-- 配色方案库
+- 配色原理、配色方案库
 - 常用的插件示例
+- 应用设计示例
+
+# Files
+
+File                          |  Description
+----------------------------- |------------------------------------------------
+FullStackSketch.sketch        |  基础设计库，包括表单/图标库/基础色彩库，可自由更换色彩
+ColorSchema.sketch            |  配色库：色彩理论；配色原理；配色库；流程化配色；
+Colors.xls                    |  配色视觉亮度计算表
+App.Sketch                    |  应用设计示例（框图设计、详细设计、表单示例、设计示例等），用户可直接基于本文件进行App设计。
+Plugins.Sketch                |  常用插件使用效果测试
+Shop.Sketch                   |  商城框图设计（开发中）
 
 # Demo
 
